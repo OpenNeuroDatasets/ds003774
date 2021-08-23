@@ -1,0 +1,33 @@
+{
+  "PowerLineFrequency": 50,
+  "SoftwareFilters": {
+    "FilterDescription": {
+      "Description": "None"
+    }
+  },
+  "HardwareFilters": {
+    "FilterDescription": {
+      "Description": "None"
+    }
+  },
+  "SoftwareVersions": "Netstation 5.4",
+  "ManufacturersModelName": "NetAmps 400",
+  "Manufacturer": "MagstimEG",
+  "EEGPlacementScheme": "EGI",
+  "EEGGround": "None",
+  "EEGReference": "Cz",
+  "CapManufacturersModelName": "128 channel HCGSN (Hydrocel Geodesic Sensor Net)",
+  "CapManufacturer": "Magstim EGI",
+  "InstitutionAddress": "India",
+  "InstitutionName": "Indian Institute of Technology Gandhinanagar",
+  "Instructions": "The first question asked them to rate their familiarity with the song on a scale of 1 to 5, where 1 indicated extreme familiarity and 5 indicated extreme unfamiliarity to the song. The second question asked them to rate their enjoyment of the song on a scale of 1 to 5, where 1 indicated extremely enjoyable and 5 indicated extremely unenjoyable song.",
+  "TaskDescription": "The participants sat comfortably in a dark room and were made to wear the 128 channel high density Electroencephalography (EEG) cap. For the music listening session, the participants were again indicated to close their eyes with a single beep, and the song was presented to them on speakers. After listening to the song, a double beep was presented, suggesting them to open their eyes and answer two questions.",
+  "TaskName": "MusicListening",
+  "EEGChannelCount": 129,
+  "RecordingType": "continuous",
+  "RecordingDuration": 121.467,
+  "SamplingFrequency": 1000,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0
+}
