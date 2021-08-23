@@ -1,7 +1,9 @@
 {
-  "Authors": ["Krishna Prasad Miyapuram; Pankaj Pandey; Nashra Ahmad; Bharatesh R Shiraguppi; Esha Sharma; Prashant Lawhatre; Dhananjay Sonawane; Derek Lomas"],
-  "Name": "Music Listening - Genre EEG dataset",
-  "License": "CC0",
-  "ReferencesAndLinks": [""],
-  "BIDSVersion": "1.1.1"
+    "Authors": [],
+    "Name": "Music Listening - Genre EEG dataset",
+    "License": "CC0",
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "BIDSVersion": "1.1.1"
 }
