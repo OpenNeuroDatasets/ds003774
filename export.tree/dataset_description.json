@@ -1,0 +1,19 @@
+{
+    "Authors": [
+        "Krishna Prasad Miyapuram",
+        "Pankaj Pandey",
+        "Nashra Ahmad",
+        "Bharatesh R Shiraguppi",
+        "Esha Sharma",
+        "Prashant Lawhatre",
+        "Dhananjay Sonawane",
+        "Derek Lomas"
+    ],
+    "Name": "Music Listening- Genre EEG dataset (MUSIN-G)",
+    "License": "CC0",
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "BIDSVersion": "1.1.1",
+    "DatasetDOI": "10.18112/openneuro.ds003774.v1.0.0"
+}
